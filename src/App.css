@@ -1,49 +1,5 @@
 body {
+  background-color: pink;
   margin: 0;
   padding: 0;
-  background-color: white;
-}
-
-/* Navbar */
-
-.notification {
-  background-color: #AB8F80;
-  height: 5vh;
-  display: flex;
-  text-transform: uppercase;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.9em;
-  color: white;
-}
-
-.navbar {
-  background-color: white;
-  height: 10vh;
-  display: flex;
-}
-
-/* Hero */
-
-.hero {
-  width: 100%;
-  height: 70vh;
-  background-color: pink;
-  background: url(https://images.unsplash.com/photo-1551546785-423f456af418?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-}
-
-/* Trending Products */
-
-.trendingProducts {
-  background: white;
-  height: 30vh;
-  display: flex;
-
-}
-
-.productImg {
-  max-width: 100%;
-  height: 50%;
-  object-fit: cover;
-
 }
